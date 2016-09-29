@@ -14,6 +14,6 @@ A minimalist example of using the [screeps-remote](https://github.com/troygoode/
 ## Example `.env` File
 
 ```
-SCREEPS_USERNAME=YOUR_USERNAME
-SCREEPS_PASSWORD=YOUR_PASSWORD
+SCREEPS_USERNAME=your_username_here
+SCREEPS_PASSWORD=your_password_here
 ```
