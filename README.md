@@ -1,6 +1,6 @@
 # screeps-remote-example
 
-A minimalist example of using the [screeps-remote](https://github.com/troygoode/screeps-remote) development tool for [Screeps](https://screeps.com/).
+A minimalist example of using the [screeps-remote](https://github.com/overra/screeps-remote) development tool for [Screeps](https://screeps.com/).
 
 ![](https://i.imgur.com/Lrsu31K.png)
 
