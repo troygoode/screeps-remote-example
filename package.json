@@ -1,0 +1,13 @@
+{
+  "name": "screeps-remote-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node bin/remote.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "dotenv": "^2.0.0",
+    "screeps-remote": "git://github.com/troygoode/screeps-remote.git"
+  }
+}
