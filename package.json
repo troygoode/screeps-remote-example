@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "dotenv": "^2.0.0",
-    "screeps-remote": "git://github.com/troygoode/screeps-remote.git"
+    "screeps-remote": "^1.0.0"
   }
 }
